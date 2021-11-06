@@ -1,0 +1,30 @@
+@font-face {
+	font-family: brown;
+	font-style: normal;
+	font-weight: 400;
+	src: url(/fonts/brown/Brown-Regular.eot?#iefix)
+			format('embedded-opentype'),
+		url(/fonts/brown/Brown-Regular.woff2) format('woff2'),
+		url(/fonts/brown/Brown-Regular.woff) format('woff'),
+		url(/fonts/brown/Brown-Regular.ttf) format('truetype');
+}
+@font-face {
+	font-family: brown-light;
+	font-style: normal;
+	font-weight: 300;
+	src: url(/fonts/brown/Brown-Light.eot?#iefix)
+			format('embedded-opentype'),
+		url(/fonts/brown/Brown-Light.woff2) format('woff2'),
+		url(/fonts/brown/Brown-Light.woff) format('woff'),
+		url(/fonts/brown/Brown-Light.ttf) format('truetype');
+}
+@font-face {
+	font-family: brown-bold;
+	font-style: normal;
+	font-weight: 700;
+	src: url(/fonts/brown/Brown-Bold.eot?#iefix)
+			format('embedded-opentype'),
+		url(/fonts/brown/Brown-Bold.woff2) format('woff2'),
+		url(/fonts/brown/Brown-Bold.woff) format('woff'),
+		url(/fonts/brown/Brown-Bold.ttf) format('truetype');
+}

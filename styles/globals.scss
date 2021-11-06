@@ -1,0 +1,25 @@
+@use 'brown-font';
+
+$primary-color: #333;
+
+* {
+	box-sizing: border-box;
+}
+
+html,
+body {
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	font-family: 'brown', sans-serif;
+	color: $primary-color;
+	font-size: 16px;
+	font-weight: 400;
+	padding: 0;
+	margin: 0;
+	transition: all 0.5s ease;
+}
+
+a {
+	color: inherit;
+	text-decoration: none;
+}
